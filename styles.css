@@ -1,0 +1,30 @@
+body {
+    background-color: #1a1a1a;
+  }
+  h1 {
+    color: oldlace;
+    border: 8px solid oldlace;
+    padding: 20px;
+  }
+  p {
+    color: oldlace;
+
+  }
+  img {
+    border: 8px solid oldlace;
+  }
+  aside{
+    float: left;
+    color: oldlace;
+    border: 8px solid oldlace;
+    padding: 20px;
+    padding-left:200px;
+    padding-right:200px;
+    margin-left: 100px;
+    margin-right: 100px;
+    text-align: center;
+  }
+  a {
+    color: crimson;
+    text-align: center;
+  }
